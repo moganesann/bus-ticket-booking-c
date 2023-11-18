@@ -1,0 +1,14 @@
+======================================================================================================================
+Bus No  Company                 Journey                        Price      Departure Time       Features Available
+======================================================================================================================
+1011    LA Holidays             Sungai Petani to TBS           RM 45.10   8:00am               WiFi,Charger
+1012    SANI Express            Ipoh to Penang Sentral         RM 20.10   11.00pm              Charger
+1013    Utama Express           Kuantan to TBS                 RM 24.00   1:00pm               Charger
+1014    Maraliner               TBS To Cameron Highlands       RM 38.00   11:30am              WiFi,Charger
+1015    Transnasional Express   Melaka to Alor Setar           RM 58.00   4:00pm               WiFi,Charger
+1016    Cosmic Express          Gurun to Hentian Duta          RM 45.00   8.30pm               Charger
+1017    Plusliner Express       Butterworth to Kajang          RM 37.00   8.30pm               Charger
+1018    Cepat Express           Genting Highlands to Singapore RM 78.00   11:30pm              WiFi,Charger
+1019    Supernice Grassland     KL Sentral to Kangar           RM 55.00   7:00am               Charger
+1020    Alisan Golden Coach     Kangar to Kuantan              RM 67.00   1:00pm               Wifi,Charger
+
